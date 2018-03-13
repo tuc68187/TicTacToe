@@ -1,0 +1,8 @@
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\obj\Debug\Lab6TicTacToeTests.csprojResolveAssemblyReference.cache
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\bin\Debug\Lab6TicTacToeTests.dll
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\bin\Debug\Lab6TicTacToeTests.pdb
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\bin\Debug\Lab6TicTacToe.exe
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\bin\Debug\Lab6TicTacToe.pdb
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\obj\Debug\Lab6TicTacToeTests.dll
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToeTests\obj\Debug\Lab6TicTacToeTests.pdb

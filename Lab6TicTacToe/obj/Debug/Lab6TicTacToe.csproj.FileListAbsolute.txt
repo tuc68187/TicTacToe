@@ -1,0 +1,8 @@
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\bin\Debug\Lab6TicTacToe.exe.config
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\bin\Debug\Lab6TicTacToe.exe
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\bin\Debug\Lab6TicTacToe.pdb
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\obj\Debug\Lab6TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\obj\Debug\Lab6TicTacToe.Properties.Resources.resources
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\obj\Debug\Lab6TicTacToe.csproj.GenerateResource.Cache
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\obj\Debug\Lab6TicTacToe.exe
+C:\Users\ShiroLycoris\Documents\Visual Studio 2015\Projects\Lab6TicTacToe\Lab6TicTacToe\obj\Debug\Lab6TicTacToe.pdb
